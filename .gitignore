@@ -1,0 +1,19 @@
+#Excel files
+*.xls
+*.xlsx
+*xlsm
+*.xlsb
+
+# Temporary files
+~$*.xlsx
+~$*.xls
+
+# Python bytecode
+*.pyc
+__pycache__/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+*.exe
